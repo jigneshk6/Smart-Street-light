@@ -1,5 +1,11 @@
 # SMART STREET LIGHT USING BLYNK
 
+
+## WORKING
+
+![](street_light_demo.png)
+
+
 ## Components/Sensors required for this Project
 
 1. HC SR-04 Ultrasonic sensor
