@@ -25,8 +25,3 @@
 ![](IMG_20200423_162320.jpg)
 
 
-## NODE.JS APP
-
-Become my pateron member here: https://www.patreon.com/iotguy
-I will upload the code for Paterons only!
-
